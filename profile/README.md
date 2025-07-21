@@ -19,12 +19,12 @@ Designed with simplicity and accuracy in mind, Tomato - Diag-Leaf allows users t
 
 <table>
   <tr>
-    <td><img width="100%"alt="vlcsnap-2025-07-21-16h02m21s646" src="https://github.com/user-attachments/assets/38ec795b-1756-464f-a30e-5c772c08c30b"/></td>
-    <td><img width="100%" alt="vlcsnap-2025-07-21-16h02m45s633" src="https://github.com/user-attachments/assets/477bb172-ee36-42cb-9df9-3ad9f4730f2d" /></td>
+    <td><img width="70%"alt="vlcsnap-2025-07-21-16h02m21s646" src="https://github.com/user-attachments/assets/38ec795b-1756-464f-a30e-5c772c08c30b"/></td>
+    <td><img width="70%" alt="vlcsnap-2025-07-21-16h02m45s633" src="https://github.com/user-attachments/assets/477bb172-ee36-42cb-9df9-3ad9f4730f2d" /></td>
   </tr>
   <tr>
-    <td><img width="100%" alt="vlcsnap-2025-07-21-16h03m26s894" src="https://github.com/user-attachments/assets/6dbdb74a-fa21-4474-86d2-0c8a34501ae2" /></td>
-    <td><img width="100%" alt="vlcsnap-2025-07-21-16h03m01s460" src="https://github.com/user-attachments/assets/83cd5429-241f-489e-b48b-a3464b63fa54" /></td>
+    <td><img width="70%" alt="vlcsnap-2025-07-21-16h03m26s894" src="https://github.com/user-attachments/assets/6dbdb74a-fa21-4474-86d2-0c8a34501ae2" /></td>
+    <td><img width="70%" alt="vlcsnap-2025-07-21-16h03m01s460" src="https://github.com/user-attachments/assets/83cd5429-241f-489e-b48b-a3464b63fa54" /></td>
   </tr>
 </table>
 
