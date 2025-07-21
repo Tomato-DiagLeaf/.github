@@ -14,3 +14,11 @@ Designed with simplicity and accuracy in mind, LeafScan allows users to take or 
 | ---------------------------------------| --------------------| 
 | Alvin Saputra                          | Student/Developer   |
 
+
+# Tomato - Diag-Leaf - Demo
+
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/eb28d402-0d25-485e-a2b6-0810015184f9" controls width="600"></video>
+</div>
+
+
