@@ -3,10 +3,10 @@
 
 # Tomato - Diag-Leaf
 
-## What isTomato - Diag-Leaf?
-LeafScan is an AI-powered mobile application built with Flutter that helps users detect and classify diseases in plant leaves using image processing and Convolutional Neural Networks (CNN).
+## What is Tomato - Diag-Leaf?
+Tomato - Diag-Leaf is an AI-powered mobile application built with Flutter that helps users detect and classify diseases in tomato leaves using image processing and Convolutional Neural Networks (CNN).
 
-Designed with simplicity and accuracy in mind, LeafScan allows users to take or upload a picture of a leaf, crop it as needed, and instantly get predictions of potential plant diseases—helping farmers, gardeners, and plant enthusiasts take early action to protect their crops.
+Designed with simplicity and accuracy in mind, Tomato - Diag-Leaf allows users to take or upload a picture of a tomato leaf, crop it as needed, and instantly get predictions of potential plant diseases—helping tomato farmers to take early action to protect their crops.
 
 
 ## Contributor
